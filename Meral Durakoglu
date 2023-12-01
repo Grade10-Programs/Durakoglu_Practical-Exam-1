@@ -1,0 +1,12 @@
+#BY MERAL DURAKOGLU
+#GIVEN
+TestData = [5,12,22,55]
+
+#VARIABLE
+Input = int(input("Search for a number"))
+
+#CODING
+if Input in TestData
+  print("True.")
+else:
+  print("False.")
